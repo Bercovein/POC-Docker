@@ -6,7 +6,7 @@ Pre-Requisitos: Poseer una cuenta en https://hub.docker.com/ y tener instalado D
 
 *Como iniciar?*
 
-- Con un cliente cmd situarse en la carpeta flask-app
+- Con un cliente cmd situarse en la carpeta POC-Docker
 - Ejecutar el comando reemplazando "mi usuario" por el nombre de usuario propio
 
     $ docker build -t miusuario/miapp . 
